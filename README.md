@@ -1,4 +1,4 @@
-# >Part of being a person is about helping others.
+# Part of being a person is about helping others.
 
 <!---
 vijayshanker2/vijayshanker2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
