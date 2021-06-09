@@ -1,5 +1,5 @@
 # V . L . T . C
-   [ ] Vijay learns to code
+  >Vijay learns to code
 
 <!---
 vijayshanker2/vijayshanker2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
